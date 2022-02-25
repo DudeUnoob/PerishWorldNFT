@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x267529CBeD09201Ff43AFe0a6732076238305A6D",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x267529CBeD09201Ff43AFe0a6732076238305A6D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Perish World",
+  "SYMBOL": "PWNFT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/perish-world",
+  "SHOW_BACKGROUND": true
+}
